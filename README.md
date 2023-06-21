@@ -1,6 +1,1 @@
-# mern-stack-blog-app
-complete mern stack blog application source code 2023
-
-# please check branches more code coming soon !
-Dont forgot follow on github as well 
-##  thanks for watching techinfoyt
+You can find the live site at : https://blogverse-4obp.onrender.com/
